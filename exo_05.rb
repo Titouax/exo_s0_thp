@@ -1,5 +1,7 @@
-# la suite de caractère #{} permet de créer un substitution d'expression au sein d'une chaine de caractère lorsqu'on l'affiche
-# Cela à pour conséquence l'interpolation du résultat de l'expréssion qui est contenu afin d'en afficher son résultat
+=begin
+la suite de caractère #{} permet de créer un substitution d'expression au sein d'une chaine de caractère lorsqu'on l'affiche
+Cela à pour conséquence l'interpolation de l'expréssion qui est contenu afin d'en afficher son résultat
+=end
 
 
 #On affiche du texte
